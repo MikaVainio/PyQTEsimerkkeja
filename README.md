@@ -1,0 +1,2 @@
+# PyQTEsimerkkeja
+Python-pohjaisia käyttöliittymäharjoituksia
